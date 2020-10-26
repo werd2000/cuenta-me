@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cuenta-me"
+    }
+  },
+  "defaultProject": "cuenta-me",
+  "cli": {
+    "analytics": "7f358788-3f05-4f72-86a1-f84c78cc49cf"
+  }
 }
